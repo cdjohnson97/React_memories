@@ -1,2 +1,2 @@
 # React_memories
-Created with CodeSandbox
+This is my first real react project  
